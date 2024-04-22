@@ -40,7 +40,35 @@ h5{
 /*seccion 1: main tittle and imagenes*/
 
 /*section 4: table*/
-.color thead{
+
+table{
+    border-collapse: collapse;
+}
+th{
     background-color: aqua;
 }
 
+.color-trblue >td{
+    background-color: darkcyan;
+    
+}
+
+/*section 6: footer*/
+
+#potrebbero-interessarti{
+    color: gray;
+    font-weight: bold;
+
+}
+.container{
+    position: relative;
+    text-align: left;
+}
+
+.text-on-top{
+    color: white;
+    position: absolute;
+    top: 10px;
+    left: 10px;
+    font-weight: bold;
+}
