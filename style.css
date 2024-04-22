@@ -39,4 +39,8 @@ h5{
 }
 /*seccion 1: main tittle and imagenes*/
 
-/*section 2: paragraph*/
+/*section 4: table*/
+.color thead{
+    background-color: aqua;
+}
+
