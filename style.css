@@ -29,8 +29,8 @@ h6{
 }
 
 .size-imagenes-tim {
-    width: 2000px;
-    height: 1850px;
+    width: 100%;
+    height: auto;
 }
 
 h5{
